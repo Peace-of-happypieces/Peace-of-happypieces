@@ -14,10 +14,6 @@ You can click the Preview link to take a look at your changes.
 <head>
 </head>
 <body>
-<img src="
-  
+<img src="![image](https://github.com/Peace-of-happypieces/Peace-of-happypieces/assets/141865256/7dee2b21-36ae-403d-b51c-4d6e7347eb02).jpg alt="A funny dog"/>
 </body>
-
-
-  
 </html>
